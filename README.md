@@ -1,2 +1,3 @@
 # whitepaper
-All eVESTX whitepapers
+
+All eVESTX Whitepapers and Tokenomics
